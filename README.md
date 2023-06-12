@@ -1,2 +1,9 @@
 # Progetto-OODB
 Progetto OODB a.a 2022-20023
+AUTORI: Giuseppe Sindoni & Giulio Pianese
+MATRICOLE: N86004107 - N86004335
+
+INFO GRUPPO:
+-ID GRUPPO: OODB_T1G25
+-TRACCIA: 1
+-CAPOGRUPPO: Giulio Pianese N86004335

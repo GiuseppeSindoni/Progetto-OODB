@@ -18,8 +18,8 @@ Il presente repository contiene il progetto OODB  per l'anno accademico 2022-202
 
 ## Struttura del repository
 
-- `BD`: Cartella contenente tutto il materiale relativo alla parte di Basi di dati (Codice Sorgente, Documentazione, Diagrammi).
-- `OO`: Cartella contenente tutto il materiale relativo alla parte di Object Orientation.
+- `Basi di dati`: Cartella contenente tutto il materiale relativo alla parte di Basi di dati (Codice Sorgente, Documentazione, Diagrammi).
+- `Object Orientation`: Cartella contenente tutto il materiale relativo alla parte di Object Orientation.
 - `README.md`: Questo file, che fornisce informazioni sul progetto.
 
 ## Contatti
